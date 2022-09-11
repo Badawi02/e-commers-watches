@@ -1,2 +1,2 @@
 # e-commers-watches
-E-commers to sell watches
+Frontend E-commers to sell watches
